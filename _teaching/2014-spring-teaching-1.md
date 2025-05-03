@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Kentucky, Department of Mechanical and Aerospace Engineering"
-date: Fall, 2019
+date: 2019-08-26
 location: "Lexington,KY,USA"
 ---
 
